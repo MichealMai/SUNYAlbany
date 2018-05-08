@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DNASequence/src"/>
+	<classpathentry kind="src" path="DNASequence/WebContent/silver-clusters-master/libSVM/libsvm-3.18/java"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-io-2.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/struts2-core-2.5.14.1.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="lib" path="DNASequence/WebContent/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="DNASequence/WebRoot/WEB-INF/classes"/>
+</classpath>
